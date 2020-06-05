@@ -8,7 +8,7 @@ import org.springframework.stereotype.Service;
 import java.util.List;
 
 @Service
-public class FiltersServiceImp implements com.read.app.service.FiltersService
+public class FiltersServiceImp implements FiltersService
 {
 
     FiltersRepository filtersRepository = new FiltersRepositoryImp();

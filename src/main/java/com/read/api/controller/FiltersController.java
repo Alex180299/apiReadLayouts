@@ -1,7 +1,7 @@
 package com.read.api.controller;
 
 import com.read.app.model.Filter;
-import com.read.app.service.FiltersService;
+import com.read.api.service.FiltersService;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.web.bind.annotation.*;
 

@@ -20,7 +20,7 @@ public class ConfigurationApp
         env = environment;
 
         configurationFile = getOrDefault("schedule.config.file", "./config/configuration.xml");
-        loggingFile = getOrDefault("logging.config", "./config/log4j2.xml");
+        loggingFile = getOrDefault("logging.config", "./config/log4j.xml");
         layoutFieldsFile = getOrDefault("layout.fields.file", "./config/layout.xml");
         layoutFiltersFile = getOrDefault("layout.filters.file", "./config/filters.xml");
 

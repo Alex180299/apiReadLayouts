@@ -4,4 +4,5 @@
   <filter id="20" layout="layout-in" name="Filtro nuevo" sequence="1" fieldId="2" operator="LESS_THAN" value="10" parenthesis=")" negated="false" connector="AND"/>
   <filter id="20" layout="layout-in" name="Filtro nuevo" sequence="1" fieldId="2" operator="LESS_THAN" value="10" parenthesis=")" negated="false" connector="AND"/>
   <filter id="21" layout="layout-in" name="Filtro comun" sequence="1" fieldId="2" operator="a" value="5" parenthesis="(" negated="false" connector="OR"/>
+  <filter id="22" layout="layout-in" name="Filtro comun" sequence="1" fieldId="2" operator="a" value="5" parenthesis="(" negated="false" connector="OR"/>
 </filters>

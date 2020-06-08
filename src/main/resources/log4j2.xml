@@ -12,8 +12,11 @@
         </RollingFile>
     </Appenders>
     <Loggers>
-        <Root level="ALL">
+        <Root level="INFO">
             <AppenderRef ref="file-day"/>
         </Root>
+        <Logger name="org.springframework.web" level="info" additivity="false">
+            <AppenderRef ref="file-day" />
+        </Logger>
     </Loggers>
 </Configuration>

@@ -21,7 +21,7 @@ public class FiltersController
     }
 
     @PostMapping("/filter")
-    public String saveFilter(@RequestParam Filter filter)
+    public String saveFilter(@RequestBody Filter filter)
     {
         return "{ " + filtersService.save(filter) + " }";
     }
@@ -39,7 +39,7 @@ public class FiltersController
     }
 
     @PutMapping("/filter")
-    public String updateFilter(@RequestParam Filter filter)
+    public String updateFilter(@RequestBody Filter filter)
     {
         return "{ + " + filtersService.update(filter) + " }";
     }

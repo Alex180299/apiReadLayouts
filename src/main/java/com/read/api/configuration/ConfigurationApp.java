@@ -10,7 +10,6 @@ public class ConfigurationApp
 
     public static Environment env;
     public static String configurationFile;
-    public static String loggingFile;
     public static String layoutFieldsFile;
     public static String layoutFiltersFile;
 
@@ -20,7 +19,6 @@ public class ConfigurationApp
         env = environment;
 
         configurationFile = getOrDefault("schedule.config.file", "./config/configuration.xml");
-        loggingFile = getOrDefault("logging.config", "./config/log4j2.xml");
         layoutFieldsFile = getOrDefault("layout.fields.file", "./config/layout.xml");
         layoutFiltersFile = getOrDefault("layout.filters.file", "./config/filters.xml");
 

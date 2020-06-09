@@ -9,7 +9,6 @@ public class AppExecution
 
     public static void start(){
         ConfigurationModule.configurationFile = ConfigurationApp.configurationFile;
-        //ConfigurationModule.loggingFile = ConfigurationApp.loggingFile;
         ConfigurationModule.layoutFieldsFile = ConfigurationApp.layoutFieldsFile;
         ConfigurationModule.layoutFiltersFile = ConfigurationApp.layoutFiltersFile;
         App.init();

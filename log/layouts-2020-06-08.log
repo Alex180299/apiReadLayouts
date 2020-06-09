@@ -1,0 +1,154 @@
+14:27:22.746 [main] INFO  com.read.api.ApiApplication - Starting ApiApplication on Mac-mini-de-Alejandro.local with PID 2490 (/Users/alejandroortiz/Documents/Development/KS/Capacitacion/apiReadLayouts/target/classes started by alejandroortiz in /Users/alejandroortiz/Documents/Development/KS/Capacitacion/apiReadLayouts)
+14:27:22.777 [main] INFO  com.read.api.ApiApplication - No active profile set, falling back to default profiles: default
+14:27:25.880 [main] INFO  org.springframework.boot.web.embedded.tomcat.TomcatWebServer - Tomcat initialized with port(s): 8080 (http)
+14:27:25.911 [main] INFO  org.apache.coyote.http11.Http11NioProtocol - Initializing ProtocolHandler ["http-nio-8080"]
+14:27:25.912 [main] INFO  org.apache.catalina.core.StandardService - Starting service [Tomcat]
+14:27:25.913 [main] INFO  org.apache.catalina.core.StandardEngine - Starting Servlet engine: [Apache Tomcat/9.0.35]
+14:27:26.070 [main] INFO  org.apache.catalina.core.ContainerBase.[Tomcat].[localhost].[/] - Initializing Spring embedded WebApplicationContext
+14:27:26.071 [main] INFO  org.springframework.web.context.ContextLoader - Root WebApplicationContext: initialization completed in 3189 ms
+14:27:26.346 [main] INFO  App - Configuracion cargada
+14:27:26.381 [main] INFO  org.quartz.impl.StdSchedulerFactory - Using default implementation for ThreadExecutor
+14:27:26.384 [main] INFO  org.quartz.simpl.SimpleThreadPool - Job execution threads will use class loader of thread: main
+14:27:26.397 [main] INFO  org.quartz.core.SchedulerSignalerImpl - Initialized Scheduler Signaller of type: class org.quartz.core.SchedulerSignalerImpl
+14:27:26.397 [main] INFO  org.quartz.core.QuartzScheduler - Quartz Scheduler v.2.3.2 created.
+14:27:26.398 [main] INFO  org.quartz.simpl.RAMJobStore - RAMJobStore initialized.
+14:27:26.399 [main] INFO  org.quartz.core.QuartzScheduler - Scheduler meta-data: Quartz Scheduler (v2.3.2) 'DefaultQuartzScheduler' with instanceId 'NON_CLUSTERED'
+  Scheduler class: 'org.quartz.core.QuartzScheduler' - running locally.
+  NOT STARTED.
+  Currently in standby mode.
+  Number of jobs executed: 0
+  Using thread pool 'org.quartz.simpl.SimpleThreadPool' - with 10 threads.
+  Using job-store 'org.quartz.simpl.RAMJobStore' - which does not support persistence. and is not clustered.
+
+14:27:26.400 [main] INFO  org.quartz.impl.StdSchedulerFactory - Quartz scheduler 'DefaultQuartzScheduler' initialized from default resource file in Quartz package: 'quartz.properties'
+14:27:26.400 [main] INFO  org.quartz.impl.StdSchedulerFactory - Quartz scheduler version: 2.3.2
+14:27:26.405 [main] INFO  org.quartz.core.QuartzScheduler - Scheduler DefaultQuartzScheduler_$_NON_CLUSTERED started.
+14:27:26.405 [main] INFO  com.read.app.repository.FiltersRepositoryImp - Tarea programada de lectura de layouts iniciada
+14:27:26.800 [main] INFO  org.springframework.scheduling.concurrent.ThreadPoolTaskExecutor - Initializing ExecutorService 'applicationTaskExecutor'
+14:27:27.141 [main] INFO  org.apache.coyote.http11.Http11NioProtocol - Starting ProtocolHandler ["http-nio-8080"]
+14:27:27.193 [main] INFO  org.springframework.boot.web.embedded.tomcat.TomcatWebServer - Tomcat started on port(s): 8080 (http) with context path ''
+14:27:27.215 [main] INFO  com.read.api.ApiApplication - Started ApiApplication in 5.561 seconds (JVM running for 12.417)
+14:30:16.625 [http-nio-8080-exec-1] INFO  org.apache.catalina.core.ContainerBase.[Tomcat].[localhost].[/] - Initializing Spring DispatcherServlet 'dispatcherServlet'
+14:30:16.638 [http-nio-8080-exec-1] INFO  org.springframework.web.servlet.DispatcherServlet - Initializing Servlet 'dispatcherServlet'
+14:30:16.688 [http-nio-8080-exec-1] INFO  org.springframework.web.servlet.DispatcherServlet - Completed initialization in 49 ms
+16:21:45.959 [main] INFO  com.read.api.ApiApplication - Starting ApiApplication on Mac-mini-de-Alejandro.local with PID 2991 (/Users/alejandroortiz/Documents/Development/KS/Capacitacion/apiReadLayouts/target/classes started by alejandroortiz in /Users/alejandroortiz/Documents/Development/KS/Capacitacion/apiReadLayouts)
+16:21:46.030 [main] INFO  com.read.api.ApiApplication - No active profile set, falling back to default profiles: default
+16:21:50.011 [main] INFO  org.springframework.boot.web.embedded.tomcat.TomcatWebServer - Tomcat initialized with port(s): 8080 (http)
+16:21:50.043 [main] INFO  org.apache.coyote.http11.Http11NioProtocol - Initializing ProtocolHandler ["http-nio-8080"]
+16:21:50.044 [main] INFO  org.apache.catalina.core.StandardService - Starting service [Tomcat]
+16:21:50.044 [main] INFO  org.apache.catalina.core.StandardEngine - Starting Servlet engine: [Apache Tomcat/9.0.35]
+16:21:50.312 [main] INFO  org.apache.catalina.core.ContainerBase.[Tomcat].[localhost].[/] - Initializing Spring embedded WebApplicationContext
+16:21:50.312 [main] INFO  org.springframework.web.context.ContextLoader - Root WebApplicationContext: initialization completed in 4203 ms
+16:21:55.535 [main] INFO  App - Se ha cargado el logger correctamente
+16:21:55.696 [main] INFO  App - Configuracion cargada
+16:21:55.723 [main] INFO  org.quartz.impl.StdSchedulerFactory - Using default implementation for ThreadExecutor
+16:21:55.725 [main] INFO  org.quartz.simpl.SimpleThreadPool - Job execution threads will use class loader of thread: main
+16:21:55.741 [main] INFO  org.quartz.core.SchedulerSignalerImpl - Initialized Scheduler Signaller of type: class org.quartz.core.SchedulerSignalerImpl
+16:21:55.741 [main] INFO  org.quartz.core.QuartzScheduler - Quartz Scheduler v.2.3.2 created.
+16:21:55.742 [main] INFO  org.quartz.simpl.RAMJobStore - RAMJobStore initialized.
+16:21:55.743 [main] INFO  org.quartz.core.QuartzScheduler - Scheduler meta-data: Quartz Scheduler (v2.3.2) 'DefaultQuartzScheduler' with instanceId 'NON_CLUSTERED'
+  Scheduler class: 'org.quartz.core.QuartzScheduler' - running locally.
+  NOT STARTED.
+  Currently in standby mode.
+  Number of jobs executed: 0
+  Using thread pool 'org.quartz.simpl.SimpleThreadPool' - with 10 threads.
+  Using job-store 'org.quartz.simpl.RAMJobStore' - which does not support persistence. and is not clustered.
+
+16:21:55.743 [main] INFO  org.quartz.impl.StdSchedulerFactory - Quartz scheduler 'DefaultQuartzScheduler' initialized from default resource file in Quartz package: 'quartz.properties'
+16:21:55.743 [main] INFO  org.quartz.impl.StdSchedulerFactory - Quartz scheduler version: 2.3.2
+16:21:55.748 [main] INFO  org.quartz.core.QuartzScheduler - Scheduler DefaultQuartzScheduler_$_NON_CLUSTERED started.
+16:21:55.748 [main] INFO  com.read.app.repository.FiltersRepositoryImp - Tarea programada de lectura de layouts iniciada
+16:21:56.091 [main] INFO  org.springframework.scheduling.concurrent.ThreadPoolTaskExecutor - Initializing ExecutorService 'applicationTaskExecutor'
+16:21:56.354 [main] INFO  org.apache.coyote.http11.Http11NioProtocol - Starting ProtocolHandler ["http-nio-8080"]
+16:21:56.434 [main] INFO  org.springframework.boot.web.embedded.tomcat.TomcatWebServer - Tomcat started on port(s): 8080 (http) with context path ''
+16:21:56.459 [main] INFO  com.read.api.ApiApplication - Started ApiApplication in 11.292 seconds (JVM running for 19.885)
+16:26:33.147 [SpringContextShutdownHook] INFO  org.springframework.scheduling.concurrent.ThreadPoolTaskExecutor - Shutting down ExecutorService 'applicationTaskExecutor'
+16:26:56.754 [main] INFO  com.read.api.ApiApplication - Starting ApiApplication on Mac-mini-de-Alejandro.local with PID 3014 (/Users/alejandroortiz/Documents/Development/KS/Capacitacion/apiReadLayouts/target/classes started by alejandroortiz in /Users/alejandroortiz/Documents/Development/KS/Capacitacion/apiReadLayouts)
+16:26:56.815 [main] INFO  com.read.api.ApiApplication - No active profile set, falling back to default profiles: default
+16:26:59.174 [main] INFO  org.springframework.boot.web.embedded.tomcat.TomcatWebServer - Tomcat initialized with port(s): 8080 (http)
+16:26:59.251 [main] INFO  org.apache.coyote.http11.Http11NioProtocol - Initializing ProtocolHandler ["http-nio-8080"]
+16:26:59.251 [main] INFO  org.apache.catalina.core.StandardService - Starting service [Tomcat]
+16:26:59.253 [main] INFO  org.apache.catalina.core.StandardEngine - Starting Servlet engine: [Apache Tomcat/9.0.35]
+16:26:59.408 [main] INFO  org.apache.catalina.core.ContainerBase.[Tomcat].[localhost].[/] - Initializing Spring embedded WebApplicationContext
+16:26:59.408 [main] INFO  org.springframework.web.context.ContextLoader - Root WebApplicationContext: initialization completed in 2435 ms
+16:28:28.065 [main] INFO  App - Se ha cargado el logger correctamente
+16:31:21.167 [main] INFO  com.read.api.ApiApplication - Starting ApiApplication on Mac-mini-de-Alejandro.local with PID 3034 (/Users/alejandroortiz/Documents/Development/KS/Capacitacion/apiReadLayouts/target/classes started by alejandroortiz in /Users/alejandroortiz/Documents/Development/KS/Capacitacion/apiReadLayouts)
+16:31:21.209 [main] INFO  com.read.api.ApiApplication - No active profile set, falling back to default profiles: default
+16:31:23.057 [main] INFO  org.springframework.boot.web.embedded.tomcat.TomcatWebServer - Tomcat initialized with port(s): 8080 (http)
+16:31:23.098 [main] INFO  org.apache.coyote.http11.Http11NioProtocol - Initializing ProtocolHandler ["http-nio-8080"]
+16:31:23.099 [main] INFO  org.apache.catalina.core.StandardService - Starting service [Tomcat]
+16:31:23.100 [main] INFO  org.apache.catalina.core.StandardEngine - Starting Servlet engine: [Apache Tomcat/9.0.35]
+16:31:23.224 [main] INFO  org.apache.catalina.core.ContainerBase.[Tomcat].[localhost].[/] - Initializing Spring embedded WebApplicationContext
+16:31:23.225 [main] INFO  org.springframework.web.context.ContextLoader - Root WebApplicationContext: initialization completed in 1942 ms
+16:31:23.340 [main] INFO  App - Se ha cargado el logger correctamente
+16:31:23.473 [main] INFO  App - Configuracion cargada
+16:31:23.502 [main] INFO  org.quartz.impl.StdSchedulerFactory - Using default implementation for ThreadExecutor
+16:31:23.504 [main] INFO  org.quartz.simpl.SimpleThreadPool - Job execution threads will use class loader of thread: main
+16:31:23.515 [main] INFO  org.quartz.core.SchedulerSignalerImpl - Initialized Scheduler Signaller of type: class org.quartz.core.SchedulerSignalerImpl
+16:31:23.515 [main] INFO  org.quartz.core.QuartzScheduler - Quartz Scheduler v.2.3.2 created.
+16:31:23.516 [main] INFO  org.quartz.simpl.RAMJobStore - RAMJobStore initialized.
+16:31:23.517 [main] INFO  org.quartz.core.QuartzScheduler - Scheduler meta-data: Quartz Scheduler (v2.3.2) 'DefaultQuartzScheduler' with instanceId 'NON_CLUSTERED'
+  Scheduler class: 'org.quartz.core.QuartzScheduler' - running locally.
+  NOT STARTED.
+  Currently in standby mode.
+  Number of jobs executed: 0
+  Using thread pool 'org.quartz.simpl.SimpleThreadPool' - with 10 threads.
+  Using job-store 'org.quartz.simpl.RAMJobStore' - which does not support persistence. and is not clustered.
+
+16:31:23.517 [main] INFO  org.quartz.impl.StdSchedulerFactory - Quartz scheduler 'DefaultQuartzScheduler' initialized from default resource file in Quartz package: 'quartz.properties'
+16:31:23.517 [main] INFO  org.quartz.impl.StdSchedulerFactory - Quartz scheduler version: 2.3.2
+16:31:23.522 [main] INFO  org.quartz.core.QuartzScheduler - Scheduler DefaultQuartzScheduler_$_NON_CLUSTERED started.
+16:31:23.523 [main] INFO  com.read.app.repository.FiltersRepositoryImp - Tarea programada de lectura de layouts iniciada
+16:31:23.745 [main] INFO  org.springframework.scheduling.concurrent.ThreadPoolTaskExecutor - Initializing ExecutorService 'applicationTaskExecutor'
+16:31:23.928 [main] INFO  org.apache.coyote.http11.Http11NioProtocol - Starting ProtocolHandler ["http-nio-8080"]
+16:31:23.963 [main] INFO  org.springframework.boot.web.embedded.tomcat.TomcatWebServer - Tomcat started on port(s): 8080 (http) with context path ''
+16:31:23.975 [main] INFO  com.read.api.ApiApplication - Started ApiApplication in 3.49 seconds (JVM running for 9.937)
+16:31:37.653 [SpringContextShutdownHook] INFO  org.springframework.scheduling.concurrent.ThreadPoolTaskExecutor - Shutting down ExecutorService 'applicationTaskExecutor'
+16:52:34.692 [main] INFO  com.read.api.ApiApplication - Starting ApiApplication on Mac-mini-de-Alejandro.local with PID 3129 (/Users/alejandroortiz/Documents/Development/KS/Capacitacion/apiReadLayouts/target/classes started by alejandroortiz in /Users/alejandroortiz/Documents/Development/KS/Capacitacion/apiReadLayouts)
+16:52:34.725 [main] INFO  com.read.api.ApiApplication - No active profile set, falling back to default profiles: default
+16:52:36.482 [main] INFO  org.springframework.boot.web.embedded.tomcat.TomcatWebServer - Tomcat initialized with port(s): 8080 (http)
+16:52:36.548 [main] INFO  org.apache.coyote.http11.Http11NioProtocol - Initializing ProtocolHandler ["http-nio-8080"]
+16:52:36.549 [main] INFO  org.apache.catalina.core.StandardService - Starting service [Tomcat]
+16:52:36.550 [main] INFO  org.apache.catalina.core.StandardEngine - Starting Servlet engine: [Apache Tomcat/9.0.35]
+16:52:36.729 [main] INFO  org.apache.catalina.core.ContainerBase.[Tomcat].[localhost].[/] - Initializing Spring embedded WebApplicationContext
+16:52:36.729 [main] INFO  org.springframework.web.context.ContextLoader - Root WebApplicationContext: initialization completed in 1937 ms
+16:55:30.955 [main] INFO  com.read.api.ApiApplication - Starting ApiApplication on Mac-mini-de-Alejandro.local with PID 3149 (/Users/alejandroortiz/Documents/Development/KS/Capacitacion/apiReadLayouts/target/classes started by alejandroortiz in /Users/alejandroortiz/Documents/Development/KS/Capacitacion/apiReadLayouts)
+16:55:30.973 [main] INFO  com.read.api.ApiApplication - No active profile set, falling back to default profiles: default
+16:55:33.088 [main] INFO  org.springframework.boot.web.embedded.tomcat.TomcatWebServer - Tomcat initialized with port(s): 8080 (http)
+16:55:33.133 [main] INFO  org.apache.coyote.http11.Http11NioProtocol - Initializing ProtocolHandler ["http-nio-8080"]
+16:55:33.134 [main] INFO  org.apache.catalina.core.StandardService - Starting service [Tomcat]
+16:55:33.135 [main] INFO  org.apache.catalina.core.StandardEngine - Starting Servlet engine: [Apache Tomcat/9.0.35]
+16:55:33.366 [main] INFO  org.apache.catalina.core.ContainerBase.[Tomcat].[localhost].[/] - Initializing Spring embedded WebApplicationContext
+16:55:33.366 [main] INFO  org.springframework.web.context.ContextLoader - Root WebApplicationContext: initialization completed in 2304 ms
+16:58:30.065 [main] INFO  com.read.api.ApiApplication - Starting ApiApplication on Mac-mini-de-Alejandro.local with PID 3158 (/Users/alejandroortiz/Documents/Development/KS/Capacitacion/apiReadLayouts/target/classes started by alejandroortiz in /Users/alejandroortiz/Documents/Development/KS/Capacitacion/apiReadLayouts)
+16:58:30.075 [main] INFO  com.read.api.ApiApplication - No active profile set, falling back to default profiles: default
+16:58:31.437 [main] INFO  org.springframework.boot.web.embedded.tomcat.TomcatWebServer - Tomcat initialized with port(s): 8080 (http)
+16:58:31.460 [main] INFO  org.apache.coyote.http11.Http11NioProtocol - Initializing ProtocolHandler ["http-nio-8080"]
+16:58:31.461 [main] INFO  org.apache.catalina.core.StandardService - Starting service [Tomcat]
+16:58:31.462 [main] INFO  org.apache.catalina.core.StandardEngine - Starting Servlet engine: [Apache Tomcat/9.0.35]
+16:58:31.574 [main] INFO  org.apache.catalina.core.ContainerBase.[Tomcat].[localhost].[/] - Initializing Spring embedded WebApplicationContext
+16:58:31.575 [main] INFO  org.springframework.web.context.ContextLoader - Root WebApplicationContext: initialization completed in 1426 ms
+16:58:31.700 [main] INFO  App - Se ha cargado el logger correctamente
+16:58:31.837 [main] INFO  App - Configuracion cargada
+16:58:31.871 [main] INFO  org.quartz.impl.StdSchedulerFactory - Using default implementation for ThreadExecutor
+16:58:31.873 [main] INFO  org.quartz.simpl.SimpleThreadPool - Job execution threads will use class loader of thread: main
+16:58:31.889 [main] INFO  org.quartz.core.SchedulerSignalerImpl - Initialized Scheduler Signaller of type: class org.quartz.core.SchedulerSignalerImpl
+16:58:31.889 [main] INFO  org.quartz.core.QuartzScheduler - Quartz Scheduler v.2.3.2 created.
+16:58:31.890 [main] INFO  org.quartz.simpl.RAMJobStore - RAMJobStore initialized.
+16:58:31.891 [main] INFO  org.quartz.core.QuartzScheduler - Scheduler meta-data: Quartz Scheduler (v2.3.2) 'DefaultQuartzScheduler' with instanceId 'NON_CLUSTERED'
+  Scheduler class: 'org.quartz.core.QuartzScheduler' - running locally.
+  NOT STARTED.
+  Currently in standby mode.
+  Number of jobs executed: 0
+  Using thread pool 'org.quartz.simpl.SimpleThreadPool' - with 10 threads.
+  Using job-store 'org.quartz.simpl.RAMJobStore' - which does not support persistence. and is not clustered.
+
+16:58:31.892 [main] INFO  org.quartz.impl.StdSchedulerFactory - Quartz scheduler 'DefaultQuartzScheduler' initialized from default resource file in Quartz package: 'quartz.properties'
+16:58:31.892 [main] INFO  org.quartz.impl.StdSchedulerFactory - Quartz scheduler version: 2.3.2
+16:58:31.898 [main] INFO  org.quartz.core.QuartzScheduler - Scheduler DefaultQuartzScheduler_$_NON_CLUSTERED started.
+16:58:31.899 [main] INFO  com.read.app.repository.FiltersRepositoryImp - Tarea programada de lectura de layouts iniciada
+16:58:32.170 [main] INFO  org.springframework.scheduling.concurrent.ThreadPoolTaskExecutor - Initializing ExecutorService 'applicationTaskExecutor'
+16:58:32.441 [main] INFO  org.apache.coyote.http11.Http11NioProtocol - Starting ProtocolHandler ["http-nio-8080"]
+16:58:32.482 [main] INFO  org.springframework.boot.web.embedded.tomcat.TomcatWebServer - Tomcat started on port(s): 8080 (http) with context path ''
+16:58:32.505 [main] INFO  com.read.api.ApiApplication - Started ApiApplication in 3.007 seconds (JVM running for 9.741)
+17:00:42.295 [SpringContextShutdownHook] INFO  org.springframework.scheduling.concurrent.ThreadPoolTaskExecutor - Shutting down ExecutorService 'applicationTaskExecutor'

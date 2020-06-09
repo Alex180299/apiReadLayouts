@@ -29,3 +29,345 @@
 10:04:44.074 [main] INFO  org.apache.coyote.http11.Http11NioProtocol - Starting ProtocolHandler ["http-nio-8080"]
 10:04:44.099 [main] INFO  org.springframework.boot.web.embedded.tomcat.TomcatWebServer - Tomcat started on port(s): 8080 (http) with context path ''
 10:04:44.112 [main] INFO  com.read.api.ApiApplication - Started ApiApplication in 2.307 seconds (JVM running for 8.397)
+10:26:54.967 [main] INFO  com.read.api.ApiApplication - Starting ApiApplication on Mac-mini-de-Alejandro.local with PID 1635 (/Users/alejandroortiz/Documents/Development/KS/Capacitacion/apiReadLayouts/target/classes started by alejandroortiz in /Users/alejandroortiz/Documents/Development/KS/Capacitacion/apiReadLayouts)
+10:26:54.996 [main] INFO  com.read.api.ApiApplication - No active profile set, falling back to default profiles: default
+10:26:56.321 [main] INFO  org.springframework.boot.web.embedded.tomcat.TomcatWebServer - Tomcat initialized with port(s): 8080 (http)
+10:26:56.364 [main] INFO  org.apache.coyote.http11.Http11NioProtocol - Initializing ProtocolHandler ["http-nio-8080"]
+10:26:56.365 [main] INFO  org.apache.catalina.core.StandardService - Starting service [Tomcat]
+10:26:56.365 [main] INFO  org.apache.catalina.core.StandardEngine - Starting Servlet engine: [Apache Tomcat/9.0.35]
+10:26:56.480 [main] INFO  org.apache.catalina.core.ContainerBase.[Tomcat].[localhost].[/] - Initializing Spring embedded WebApplicationContext
+10:26:56.480 [main] INFO  org.springframework.web.context.ContextLoader - Root WebApplicationContext: initialization completed in 1409 ms
+10:26:56.601 [main] INFO  App - Se ha cargado el logger correctamente
+10:26:56.738 [main] INFO  App - Configuracion cargada
+10:26:56.776 [main] INFO  org.quartz.impl.StdSchedulerFactory - Using default implementation for ThreadExecutor
+10:26:56.779 [main] INFO  org.quartz.simpl.SimpleThreadPool - Job execution threads will use class loader of thread: main
+10:26:56.791 [main] INFO  org.quartz.core.SchedulerSignalerImpl - Initialized Scheduler Signaller of type: class org.quartz.core.SchedulerSignalerImpl
+10:26:56.792 [main] INFO  org.quartz.core.QuartzScheduler - Quartz Scheduler v.2.3.2 created.
+10:26:56.793 [main] INFO  org.quartz.simpl.RAMJobStore - RAMJobStore initialized.
+10:26:56.794 [main] INFO  org.quartz.core.QuartzScheduler - Scheduler meta-data: Quartz Scheduler (v2.3.2) 'DefaultQuartzScheduler' with instanceId 'NON_CLUSTERED'
+  Scheduler class: 'org.quartz.core.QuartzScheduler' - running locally.
+  NOT STARTED.
+  Currently in standby mode.
+  Number of jobs executed: 0
+  Using thread pool 'org.quartz.simpl.SimpleThreadPool' - with 10 threads.
+  Using job-store 'org.quartz.simpl.RAMJobStore' - which does not support persistence. and is not clustered.
+
+10:26:56.794 [main] INFO  org.quartz.impl.StdSchedulerFactory - Quartz scheduler 'DefaultQuartzScheduler' initialized from default resource file in Quartz package: 'quartz.properties'
+10:26:56.794 [main] INFO  org.quartz.impl.StdSchedulerFactory - Quartz scheduler version: 2.3.2
+10:26:56.799 [main] INFO  org.quartz.core.QuartzScheduler - Scheduler DefaultQuartzScheduler_$_NON_CLUSTERED started.
+10:26:56.799 [main] INFO  com.read.app.repository.FiltersRepositoryImp - Tarea programada de lectura de layouts iniciada
+10:26:57.012 [main] INFO  org.springframework.scheduling.concurrent.ThreadPoolTaskExecutor - Initializing ExecutorService 'applicationTaskExecutor'
+10:26:57.203 [main] INFO  org.apache.coyote.http11.Http11NioProtocol - Starting ProtocolHandler ["http-nio-8080"]
+10:26:57.232 [main] INFO  org.springframework.boot.web.embedded.tomcat.TomcatWebServer - Tomcat started on port(s): 8080 (http) with context path ''
+10:26:57.244 [main] INFO  com.read.api.ApiApplication - Started ApiApplication in 3.017 seconds (JVM running for 9.651)
+10:27:20.125 [SpringContextShutdownHook] INFO  org.springframework.scheduling.concurrent.ThreadPoolTaskExecutor - Shutting down ExecutorService 'applicationTaskExecutor'
+10:39:11.112 [main] INFO  com.read.api.ApiApplication - Starting ApiApplication on Mac-mini-de-Alejandro.local with PID 1684 (/Users/alejandroortiz/Documents/Development/KS/Capacitacion/apiReadLayouts/target/classes started by alejandroortiz in /Users/alejandroortiz/Documents/Development/KS/Capacitacion/apiReadLayouts)
+10:39:11.332 [main] INFO  com.read.api.ApiApplication - No active profile set, falling back to default profiles: default
+10:39:14.181 [main] INFO  org.springframework.boot.web.embedded.tomcat.TomcatWebServer - Tomcat initialized with port(s): 8080 (http)
+10:39:14.250 [main] INFO  org.apache.coyote.http11.Http11NioProtocol - Initializing ProtocolHandler ["http-nio-8080"]
+10:39:14.251 [main] INFO  org.apache.catalina.core.StandardService - Starting service [Tomcat]
+10:39:14.252 [main] INFO  org.apache.catalina.core.StandardEngine - Starting Servlet engine: [Apache Tomcat/9.0.35]
+10:39:14.459 [main] INFO  org.apache.catalina.core.ContainerBase.[Tomcat].[localhost].[/] - Initializing Spring embedded WebApplicationContext
+10:39:14.459 [main] INFO  org.springframework.web.context.ContextLoader - Root WebApplicationContext: initialization completed in 2593 ms
+10:39:58.430 [main] INFO  App - Se ha cargado el logger correctamente
+10:40:01.498 [main] INFO  App - Configuracion cargada
+10:40:01.642 [main] INFO  org.quartz.impl.StdSchedulerFactory - Using default implementation for ThreadExecutor
+10:40:01.645 [main] INFO  org.quartz.simpl.SimpleThreadPool - Job execution threads will use class loader of thread: main
+10:40:01.674 [main] INFO  org.quartz.core.SchedulerSignalerImpl - Initialized Scheduler Signaller of type: class org.quartz.core.SchedulerSignalerImpl
+10:40:01.674 [main] INFO  org.quartz.core.QuartzScheduler - Quartz Scheduler v.2.3.2 created.
+10:40:01.675 [main] INFO  org.quartz.simpl.RAMJobStore - RAMJobStore initialized.
+10:40:01.676 [main] INFO  org.quartz.core.QuartzScheduler - Scheduler meta-data: Quartz Scheduler (v2.3.2) 'DefaultQuartzScheduler' with instanceId 'NON_CLUSTERED'
+  Scheduler class: 'org.quartz.core.QuartzScheduler' - running locally.
+  NOT STARTED.
+  Currently in standby mode.
+  Number of jobs executed: 0
+  Using thread pool 'org.quartz.simpl.SimpleThreadPool' - with 10 threads.
+  Using job-store 'org.quartz.simpl.RAMJobStore' - which does not support persistence. and is not clustered.
+
+10:40:01.676 [main] INFO  org.quartz.impl.StdSchedulerFactory - Quartz scheduler 'DefaultQuartzScheduler' initialized from default resource file in Quartz package: 'quartz.properties'
+10:40:01.676 [main] INFO  org.quartz.impl.StdSchedulerFactory - Quartz scheduler version: 2.3.2
+10:40:01.692 [main] INFO  org.quartz.core.QuartzScheduler - Scheduler DefaultQuartzScheduler_$_NON_CLUSTERED started.
+10:40:01.693 [main] INFO  com.read.app.repository.FiltersRepositoryImp - Tarea programada de lectura de layouts iniciada
+10:40:02.613 [main] INFO  org.springframework.scheduling.concurrent.ThreadPoolTaskExecutor - Initializing ExecutorService 'applicationTaskExecutor'
+10:40:03.397 [main] INFO  org.apache.coyote.http11.Http11NioProtocol - Starting ProtocolHandler ["http-nio-8080"]
+10:40:03.605 [main] INFO  org.springframework.boot.web.embedded.tomcat.TomcatWebServer - Tomcat started on port(s): 8080 (http) with context path ''
+10:40:03.659 [main] INFO  com.read.api.ApiApplication - Started ApiApplication in 54.171 seconds (JVM running for 61.22)
+10:41:28.092 [SpringContextShutdownHook] INFO  org.springframework.scheduling.concurrent.ThreadPoolTaskExecutor - Shutting down ExecutorService 'applicationTaskExecutor'
+11:17:14.268 [main] INFO  com.read.api.ApiApplication - Starting ApiApplication on Mac-mini-de-Alejandro.local with PID 1833 (/Users/alejandroortiz/Documents/Development/KS/Capacitacion/apiReadLayouts/target/classes started by alejandroortiz in /Users/alejandroortiz/Documents/Development/KS/Capacitacion/apiReadLayouts)
+11:17:14.308 [main] INFO  com.read.api.ApiApplication - No active profile set, falling back to default profiles: default
+11:17:16.278 [main] INFO  org.springframework.boot.web.embedded.tomcat.TomcatWebServer - Tomcat initialized with port(s): 8080 (http)
+11:17:16.321 [main] INFO  org.apache.coyote.http11.Http11NioProtocol - Initializing ProtocolHandler ["http-nio-8080"]
+11:17:16.322 [main] INFO  org.apache.catalina.core.StandardService - Starting service [Tomcat]
+11:17:16.322 [main] INFO  org.apache.catalina.core.StandardEngine - Starting Servlet engine: [Apache Tomcat/9.0.35]
+11:17:16.471 [main] INFO  org.apache.catalina.core.ContainerBase.[Tomcat].[localhost].[/] - Initializing Spring embedded WebApplicationContext
+11:17:16.471 [main] INFO  org.springframework.web.context.ContextLoader - Root WebApplicationContext: initialization completed in 2083 ms
+11:17:16.636 [main] INFO  App - Se ha cargado el logger correctamente
+11:17:16.818 [main] INFO  App - Configuracion cargada
+11:17:16.865 [main] INFO  org.quartz.impl.StdSchedulerFactory - Using default implementation for ThreadExecutor
+11:17:16.868 [main] INFO  org.quartz.simpl.SimpleThreadPool - Job execution threads will use class loader of thread: main
+11:17:16.885 [main] INFO  org.quartz.core.SchedulerSignalerImpl - Initialized Scheduler Signaller of type: class org.quartz.core.SchedulerSignalerImpl
+11:17:16.885 [main] INFO  org.quartz.core.QuartzScheduler - Quartz Scheduler v.2.3.2 created.
+11:17:16.886 [main] INFO  org.quartz.simpl.RAMJobStore - RAMJobStore initialized.
+11:17:16.888 [main] INFO  org.quartz.core.QuartzScheduler - Scheduler meta-data: Quartz Scheduler (v2.3.2) 'DefaultQuartzScheduler' with instanceId 'NON_CLUSTERED'
+  Scheduler class: 'org.quartz.core.QuartzScheduler' - running locally.
+  NOT STARTED.
+  Currently in standby mode.
+  Number of jobs executed: 0
+  Using thread pool 'org.quartz.simpl.SimpleThreadPool' - with 10 threads.
+  Using job-store 'org.quartz.simpl.RAMJobStore' - which does not support persistence. and is not clustered.
+
+11:17:16.889 [main] INFO  org.quartz.impl.StdSchedulerFactory - Quartz scheduler 'DefaultQuartzScheduler' initialized from default resource file in Quartz package: 'quartz.properties'
+11:17:16.889 [main] INFO  org.quartz.impl.StdSchedulerFactory - Quartz scheduler version: 2.3.2
+11:17:16.896 [main] INFO  org.quartz.core.QuartzScheduler - Scheduler DefaultQuartzScheduler_$_NON_CLUSTERED started.
+11:17:16.897 [main] INFO  com.read.app.repository.FiltersRepositoryImp - Tarea programada de lectura de layouts iniciada
+11:17:17.215 [main] INFO  org.springframework.scheduling.concurrent.ThreadPoolTaskExecutor - Initializing ExecutorService 'applicationTaskExecutor'
+11:17:17.496 [main] INFO  org.apache.coyote.http11.Http11NioProtocol - Starting ProtocolHandler ["http-nio-8080"]
+11:17:17.533 [main] INFO  org.springframework.boot.web.embedded.tomcat.TomcatWebServer - Tomcat started on port(s): 8080 (http) with context path ''
+11:17:17.553 [main] INFO  com.read.api.ApiApplication - Started ApiApplication in 4.281 seconds (JVM running for 11.121)
+11:17:19.565 [SpringContextShutdownHook] INFO  org.springframework.scheduling.concurrent.ThreadPoolTaskExecutor - Shutting down ExecutorService 'applicationTaskExecutor'
+11:45:31.396 [main] INFO  com.read.api.ApiApplication - Starting ApiApplication on Mac-mini-de-Alejandro.local with PID 1952 (/Users/alejandroortiz/Documents/Development/KS/Capacitacion/apiReadLayouts/target/classes started by alejandroortiz in /Users/alejandroortiz/Documents/Development/KS/Capacitacion/apiReadLayouts)
+11:45:31.430 [main] INFO  com.read.api.ApiApplication - No active profile set, falling back to default profiles: default
+11:45:33.001 [main] INFO  org.springframework.boot.web.embedded.tomcat.TomcatWebServer - Tomcat initialized with port(s): 8080 (http)
+11:45:33.035 [main] INFO  org.apache.coyote.http11.Http11NioProtocol - Initializing ProtocolHandler ["http-nio-8080"]
+11:45:33.036 [main] INFO  org.apache.catalina.core.StandardService - Starting service [Tomcat]
+11:45:33.036 [main] INFO  org.apache.catalina.core.StandardEngine - Starting Servlet engine: [Apache Tomcat/9.0.35]
+11:45:33.165 [main] INFO  org.apache.catalina.core.ContainerBase.[Tomcat].[localhost].[/] - Initializing Spring embedded WebApplicationContext
+11:45:33.165 [main] INFO  org.springframework.web.context.ContextLoader - Root WebApplicationContext: initialization completed in 1653 ms
+11:45:33.316 [main] INFO  App - Se ha cargado el logger correctamente
+11:45:33.409 [main] INFO  App - Configuracion cargada
+11:45:33.454 [main] INFO  org.quartz.impl.StdSchedulerFactory - Using default implementation for ThreadExecutor
+11:45:33.457 [main] INFO  org.quartz.simpl.SimpleThreadPool - Job execution threads will use class loader of thread: main
+11:45:33.473 [main] INFO  org.quartz.core.SchedulerSignalerImpl - Initialized Scheduler Signaller of type: class org.quartz.core.SchedulerSignalerImpl
+11:45:33.473 [main] INFO  org.quartz.core.QuartzScheduler - Quartz Scheduler v.2.3.2 created.
+11:45:33.475 [main] INFO  org.quartz.simpl.RAMJobStore - RAMJobStore initialized.
+11:45:33.476 [main] INFO  org.quartz.core.QuartzScheduler - Scheduler meta-data: Quartz Scheduler (v2.3.2) 'DefaultQuartzScheduler' with instanceId 'NON_CLUSTERED'
+  Scheduler class: 'org.quartz.core.QuartzScheduler' - running locally.
+  NOT STARTED.
+  Currently in standby mode.
+  Number of jobs executed: 0
+  Using thread pool 'org.quartz.simpl.SimpleThreadPool' - with 10 threads.
+  Using job-store 'org.quartz.simpl.RAMJobStore' - which does not support persistence. and is not clustered.
+
+11:45:33.477 [main] INFO  org.quartz.impl.StdSchedulerFactory - Quartz scheduler 'DefaultQuartzScheduler' initialized from default resource file in Quartz package: 'quartz.properties'
+11:45:33.477 [main] INFO  org.quartz.impl.StdSchedulerFactory - Quartz scheduler version: 2.3.2
+11:45:33.485 [main] INFO  org.quartz.core.QuartzScheduler - Scheduler DefaultQuartzScheduler_$_NON_CLUSTERED started.
+11:45:33.486 [main] INFO  com.read.app.repository.FiltersRepositoryImp - Tarea programada de lectura de layouts iniciada
+11:45:33.526 [main] WARN  org.springframework.boot.web.servlet.context.AnnotationConfigServletWebServerApplicationContext - Exception encountered during context initialization - cancelling refresh attempt: org.springframework.beans.factory.BeanCreationException: Error creating bean with name 'configurationApp' defined in file [/Users/alejandroortiz/Documents/Development/KS/Capacitacion/apiReadLayouts/target/classes/com/read/api/configuration/ConfigurationApp.class]: Bean instantiation via constructor failed; nested exception is org.springframework.beans.BeanInstantiationException: Failed to instantiate [com.read.api.configuration.ConfigurationApp$$EnhancerBySpringCGLIB$$166076ba]: Constructor threw exception; nested exception is java.lang.NullPointerException
+11:45:33.532 [main] INFO  org.apache.catalina.core.StandardService - Stopping service [Tomcat]
+11:45:33.551 [main] INFO  org.springframework.boot.autoconfigure.logging.ConditionEvaluationReportLoggingListener - 
+
+Error starting ApplicationContext. To display the conditions report re-run your application with 'debug' enabled.
+11:45:33.553 [main] ERROR org.springframework.boot.SpringApplication - Application run failed
+org.springframework.beans.factory.BeanCreationException: Error creating bean with name 'configurationApp' defined in file [/Users/alejandroortiz/Documents/Development/KS/Capacitacion/apiReadLayouts/target/classes/com/read/api/configuration/ConfigurationApp.class]: Bean instantiation via constructor failed; nested exception is org.springframework.beans.BeanInstantiationException: Failed to instantiate [com.read.api.configuration.ConfigurationApp$$EnhancerBySpringCGLIB$$166076ba]: Constructor threw exception; nested exception is java.lang.NullPointerException
+	at org.springframework.beans.factory.support.ConstructorResolver.instantiate(ConstructorResolver.java:314) ~[spring-beans-5.2.6.RELEASE.jar:5.2.6.RELEASE]
+	at org.springframework.beans.factory.support.ConstructorResolver.autowireConstructor(ConstructorResolver.java:295) ~[spring-beans-5.2.6.RELEASE.jar:5.2.6.RELEASE]
+	at org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.autowireConstructor(AbstractAutowireCapableBeanFactory.java:1358) ~[spring-beans-5.2.6.RELEASE.jar:5.2.6.RELEASE]
+	at org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.createBeanInstance(AbstractAutowireCapableBeanFactory.java:1204) ~[spring-beans-5.2.6.RELEASE.jar:5.2.6.RELEASE]
+	at org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.doCreateBean(AbstractAutowireCapableBeanFactory.java:557) ~[spring-beans-5.2.6.RELEASE.jar:5.2.6.RELEASE]
+	at org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.createBean(AbstractAutowireCapableBeanFactory.java:517) ~[spring-beans-5.2.6.RELEASE.jar:5.2.6.RELEASE]
+	at org.springframework.beans.factory.support.AbstractBeanFactory.lambda$doGetBean$0(AbstractBeanFactory.java:323) ~[spring-beans-5.2.6.RELEASE.jar:5.2.6.RELEASE]
+	at org.springframework.beans.factory.support.DefaultSingletonBeanRegistry.getSingleton(DefaultSingletonBeanRegistry.java:226) ~[spring-beans-5.2.6.RELEASE.jar:5.2.6.RELEASE]
+	at org.springframework.beans.factory.support.AbstractBeanFactory.doGetBean(AbstractBeanFactory.java:321) ~[spring-beans-5.2.6.RELEASE.jar:5.2.6.RELEASE]
+	at org.springframework.beans.factory.support.AbstractBeanFactory.getBean(AbstractBeanFactory.java:202) ~[spring-beans-5.2.6.RELEASE.jar:5.2.6.RELEASE]
+	at org.springframework.beans.factory.support.DefaultListableBeanFactory.preInstantiateSingletons(DefaultListableBeanFactory.java:895) ~[spring-beans-5.2.6.RELEASE.jar:5.2.6.RELEASE]
+	at org.springframework.context.support.AbstractApplicationContext.finishBeanFactoryInitialization(AbstractApplicationContext.java:878) ~[spring-context-5.2.6.RELEASE.jar:5.2.6.RELEASE]
+	at org.springframework.context.support.AbstractApplicationContext.refresh(AbstractApplicationContext.java:550) ~[spring-context-5.2.6.RELEASE.jar:5.2.6.RELEASE]
+	at org.springframework.boot.web.servlet.context.ServletWebServerApplicationContext.refresh(ServletWebServerApplicationContext.java:143) ~[spring-boot-2.3.0.RELEASE.jar:2.3.0.RELEASE]
+	at org.springframework.boot.SpringApplication.refresh(SpringApplication.java:758) ~[spring-boot-2.3.0.RELEASE.jar:2.3.0.RELEASE]
+	at org.springframework.boot.SpringApplication.refresh(SpringApplication.java:750) [spring-boot-2.3.0.RELEASE.jar:2.3.0.RELEASE]
+	at org.springframework.boot.SpringApplication.refreshContext(SpringApplication.java:397) [spring-boot-2.3.0.RELEASE.jar:2.3.0.RELEASE]
+	at org.springframework.boot.SpringApplication.run(SpringApplication.java:315) [spring-boot-2.3.0.RELEASE.jar:2.3.0.RELEASE]
+	at org.springframework.boot.SpringApplication.run(SpringApplication.java:1237) [spring-boot-2.3.0.RELEASE.jar:2.3.0.RELEASE]
+	at org.springframework.boot.SpringApplication.run(SpringApplication.java:1226) [spring-boot-2.3.0.RELEASE.jar:2.3.0.RELEASE]
+	at com.read.api.ApiApplication.main(ApiApplication.java:10) [classes/:?]
+Caused by: org.springframework.beans.BeanInstantiationException: Failed to instantiate [com.read.api.configuration.ConfigurationApp$$EnhancerBySpringCGLIB$$166076ba]: Constructor threw exception; nested exception is java.lang.NullPointerException
+	at org.springframework.beans.BeanUtils.instantiateClass(BeanUtils.java:217) ~[spring-beans-5.2.6.RELEASE.jar:5.2.6.RELEASE]
+	at org.springframework.beans.factory.support.SimpleInstantiationStrategy.instantiate(SimpleInstantiationStrategy.java:117) ~[spring-beans-5.2.6.RELEASE.jar:5.2.6.RELEASE]
+	at org.springframework.beans.factory.support.ConstructorResolver.instantiate(ConstructorResolver.java:310) ~[spring-beans-5.2.6.RELEASE.jar:5.2.6.RELEASE]
+	... 20 more
+Caused by: java.lang.NullPointerException
+	at com.read.app.model.LayoutLists.setLayout(LayoutLists.java:12) ~[app-2.2.1.0.jar:?]
+	at com.read.app.service.LayoutsService.start(LayoutsService.java:11) ~[app-2.2.1.0.jar:?]
+	at com.read.app.App.init(App.java:62) ~[app-2.2.1.0.jar:?]
+	at com.read.api.configuration.AppExecution.start(AppExecution.java:14) ~[classes/:?]
+	at com.read.api.configuration.ConfigurationApp.<init>(ConfigurationApp.java:25) ~[classes/:?]
+	at com.read.api.configuration.ConfigurationApp$$EnhancerBySpringCGLIB$$166076ba.<init>(<generated>) ~[classes/:?]
+	at jdk.internal.reflect.NativeConstructorAccessorImpl.newInstance0(Native Method) ~[?:?]
+	at jdk.internal.reflect.NativeConstructorAccessorImpl.newInstance(NativeConstructorAccessorImpl.java:62) ~[?:?]
+	at jdk.internal.reflect.DelegatingConstructorAccessorImpl.newInstance(DelegatingConstructorAccessorImpl.java:45) ~[?:?]
+	at java.lang.reflect.Constructor.newInstanceWithCaller(Constructor.java:500) ~[?:?]
+	at java.lang.reflect.Constructor.newInstance(Constructor.java:481) ~[?:?]
+	at org.springframework.beans.BeanUtils.instantiateClass(BeanUtils.java:204) ~[spring-beans-5.2.6.RELEASE.jar:5.2.6.RELEASE]
+	at org.springframework.beans.factory.support.SimpleInstantiationStrategy.instantiate(SimpleInstantiationStrategy.java:117) ~[spring-beans-5.2.6.RELEASE.jar:5.2.6.RELEASE]
+	at org.springframework.beans.factory.support.ConstructorResolver.instantiate(ConstructorResolver.java:310) ~[spring-beans-5.2.6.RELEASE.jar:5.2.6.RELEASE]
+	... 20 more
+11:45:34.011 [DefaultQuartzScheduler_Worker-1] ERROR org.quartz.core.JobRunShell - Job DEFAULT.readXmlProcess threw an unhandled Exception: 
+java.lang.NullPointerException: null
+	at com.read.app.model.LayoutLists.setLayout(LayoutLists.java:12) ~[app-2.2.1.0.jar:?]
+	at com.read.app.service.LayoutsService.start(LayoutsService.java:11) ~[app-2.2.1.0.jar:?]
+	at com.read.app.schedule.ReadLayoutSchedule.execute(ReadLayoutSchedule.java:42) ~[app-2.2.1.0.jar:?]
+	at org.quartz.core.JobRunShell.run(JobRunShell.java:202) [quartz-2.3.2.jar:?]
+	at org.quartz.simpl.SimpleThreadPool$WorkerThread.run(SimpleThreadPool.java:573) [quartz-2.3.2.jar:?]
+11:45:34.012 [DefaultQuartzScheduler_Worker-1] ERROR org.quartz.core.ErrorLogger - Job (DEFAULT.readXmlProcess threw an exception.
+org.quartz.SchedulerException: Job threw an unhandled exception.
+	at org.quartz.core.JobRunShell.run(JobRunShell.java:213) [quartz-2.3.2.jar:?]
+	at org.quartz.simpl.SimpleThreadPool$WorkerThread.run(SimpleThreadPool.java:573) [quartz-2.3.2.jar:?]
+Caused by: java.lang.NullPointerException
+	at com.read.app.model.LayoutLists.setLayout(LayoutLists.java:12) ~[app-2.2.1.0.jar:?]
+	at com.read.app.service.LayoutsService.start(LayoutsService.java:11) ~[app-2.2.1.0.jar:?]
+	at com.read.app.schedule.ReadLayoutSchedule.execute(ReadLayoutSchedule.java:42) ~[app-2.2.1.0.jar:?]
+	at org.quartz.core.JobRunShell.run(JobRunShell.java:202) ~[quartz-2.3.2.jar:?]
+	... 1 more
+11:46:34.004 [DefaultQuartzScheduler_Worker-2] ERROR org.quartz.core.JobRunShell - Job DEFAULT.readXmlProcess threw an unhandled Exception: 
+java.lang.NullPointerException: null
+	at com.read.app.model.LayoutLists.setLayout(LayoutLists.java:12) ~[app-2.2.1.0.jar:?]
+	at com.read.app.service.LayoutsService.start(LayoutsService.java:11) ~[app-2.2.1.0.jar:?]
+	at com.read.app.schedule.ReadLayoutSchedule.execute(ReadLayoutSchedule.java:42) ~[app-2.2.1.0.jar:?]
+	at org.quartz.core.JobRunShell.run(JobRunShell.java:202) [quartz-2.3.2.jar:?]
+	at org.quartz.simpl.SimpleThreadPool$WorkerThread.run(SimpleThreadPool.java:573) [quartz-2.3.2.jar:?]
+11:46:34.005 [DefaultQuartzScheduler_Worker-2] ERROR org.quartz.core.ErrorLogger - Job (DEFAULT.readXmlProcess threw an exception.
+org.quartz.SchedulerException: Job threw an unhandled exception.
+	at org.quartz.core.JobRunShell.run(JobRunShell.java:213) [quartz-2.3.2.jar:?]
+	at org.quartz.simpl.SimpleThreadPool$WorkerThread.run(SimpleThreadPool.java:573) [quartz-2.3.2.jar:?]
+Caused by: java.lang.NullPointerException
+	at com.read.app.model.LayoutLists.setLayout(LayoutLists.java:12) ~[app-2.2.1.0.jar:?]
+	at com.read.app.service.LayoutsService.start(LayoutsService.java:11) ~[app-2.2.1.0.jar:?]
+	at com.read.app.schedule.ReadLayoutSchedule.execute(ReadLayoutSchedule.java:42) ~[app-2.2.1.0.jar:?]
+	at org.quartz.core.JobRunShell.run(JobRunShell.java:202) ~[quartz-2.3.2.jar:?]
+	... 1 more
+11:47:34.026 [DefaultQuartzScheduler_Worker-3] ERROR org.quartz.core.JobRunShell - Job DEFAULT.readXmlProcess threw an unhandled Exception: 
+java.lang.NullPointerException: null
+	at com.read.app.model.LayoutLists.setLayout(LayoutLists.java:12) ~[app-2.2.1.0.jar:?]
+	at com.read.app.service.LayoutsService.start(LayoutsService.java:11) ~[app-2.2.1.0.jar:?]
+	at com.read.app.schedule.ReadLayoutSchedule.execute(ReadLayoutSchedule.java:42) ~[app-2.2.1.0.jar:?]
+	at org.quartz.core.JobRunShell.run(JobRunShell.java:202) [quartz-2.3.2.jar:?]
+	at org.quartz.simpl.SimpleThreadPool$WorkerThread.run(SimpleThreadPool.java:573) [quartz-2.3.2.jar:?]
+11:47:34.039 [DefaultQuartzScheduler_Worker-3] ERROR org.quartz.core.ErrorLogger - Job (DEFAULT.readXmlProcess threw an exception.
+org.quartz.SchedulerException: Job threw an unhandled exception.
+	at org.quartz.core.JobRunShell.run(JobRunShell.java:213) [quartz-2.3.2.jar:?]
+	at org.quartz.simpl.SimpleThreadPool$WorkerThread.run(SimpleThreadPool.java:573) [quartz-2.3.2.jar:?]
+Caused by: java.lang.NullPointerException
+	at com.read.app.model.LayoutLists.setLayout(LayoutLists.java:12) ~[app-2.2.1.0.jar:?]
+	at com.read.app.service.LayoutsService.start(LayoutsService.java:11) ~[app-2.2.1.0.jar:?]
+	at com.read.app.schedule.ReadLayoutSchedule.execute(ReadLayoutSchedule.java:42) ~[app-2.2.1.0.jar:?]
+	at org.quartz.core.JobRunShell.run(JobRunShell.java:202) ~[quartz-2.3.2.jar:?]
+	... 1 more
+11:48:34.002 [DefaultQuartzScheduler_Worker-4] ERROR org.quartz.core.JobRunShell - Job DEFAULT.readXmlProcess threw an unhandled Exception: 
+java.lang.NullPointerException: null
+	at com.read.app.model.LayoutLists.setLayout(LayoutLists.java:12) ~[app-2.2.1.0.jar:?]
+	at com.read.app.service.LayoutsService.start(LayoutsService.java:11) ~[app-2.2.1.0.jar:?]
+	at com.read.app.schedule.ReadLayoutSchedule.execute(ReadLayoutSchedule.java:42) ~[app-2.2.1.0.jar:?]
+	at org.quartz.core.JobRunShell.run(JobRunShell.java:202) [quartz-2.3.2.jar:?]
+	at org.quartz.simpl.SimpleThreadPool$WorkerThread.run(SimpleThreadPool.java:573) [quartz-2.3.2.jar:?]
+11:48:34.002 [DefaultQuartzScheduler_Worker-4] ERROR org.quartz.core.ErrorLogger - Job (DEFAULT.readXmlProcess threw an exception.
+org.quartz.SchedulerException: Job threw an unhandled exception.
+	at org.quartz.core.JobRunShell.run(JobRunShell.java:213) [quartz-2.3.2.jar:?]
+	at org.quartz.simpl.SimpleThreadPool$WorkerThread.run(SimpleThreadPool.java:573) [quartz-2.3.2.jar:?]
+Caused by: java.lang.NullPointerException
+	at com.read.app.model.LayoutLists.setLayout(LayoutLists.java:12) ~[app-2.2.1.0.jar:?]
+	at com.read.app.service.LayoutsService.start(LayoutsService.java:11) ~[app-2.2.1.0.jar:?]
+	at com.read.app.schedule.ReadLayoutSchedule.execute(ReadLayoutSchedule.java:42) ~[app-2.2.1.0.jar:?]
+	at org.quartz.core.JobRunShell.run(JobRunShell.java:202) ~[quartz-2.3.2.jar:?]
+	... 1 more
+11:49:34.002 [DefaultQuartzScheduler_Worker-5] ERROR org.quartz.core.JobRunShell - Job DEFAULT.readXmlProcess threw an unhandled Exception: 
+java.lang.NullPointerException: null
+	at com.read.app.model.LayoutLists.setLayout(LayoutLists.java:12) ~[app-2.2.1.0.jar:?]
+	at com.read.app.service.LayoutsService.start(LayoutsService.java:11) ~[app-2.2.1.0.jar:?]
+	at com.read.app.schedule.ReadLayoutSchedule.execute(ReadLayoutSchedule.java:42) ~[app-2.2.1.0.jar:?]
+	at org.quartz.core.JobRunShell.run(JobRunShell.java:202) [quartz-2.3.2.jar:?]
+	at org.quartz.simpl.SimpleThreadPool$WorkerThread.run(SimpleThreadPool.java:573) [quartz-2.3.2.jar:?]
+11:49:34.003 [DefaultQuartzScheduler_Worker-5] ERROR org.quartz.core.ErrorLogger - Job (DEFAULT.readXmlProcess threw an exception.
+org.quartz.SchedulerException: Job threw an unhandled exception.
+	at org.quartz.core.JobRunShell.run(JobRunShell.java:213) [quartz-2.3.2.jar:?]
+	at org.quartz.simpl.SimpleThreadPool$WorkerThread.run(SimpleThreadPool.java:573) [quartz-2.3.2.jar:?]
+Caused by: java.lang.NullPointerException
+	at com.read.app.model.LayoutLists.setLayout(LayoutLists.java:12) ~[app-2.2.1.0.jar:?]
+	at com.read.app.service.LayoutsService.start(LayoutsService.java:11) ~[app-2.2.1.0.jar:?]
+	at com.read.app.schedule.ReadLayoutSchedule.execute(ReadLayoutSchedule.java:42) ~[app-2.2.1.0.jar:?]
+	at org.quartz.core.JobRunShell.run(JobRunShell.java:202) ~[quartz-2.3.2.jar:?]
+	... 1 more
+11:50:34.004 [DefaultQuartzScheduler_Worker-6] ERROR org.quartz.core.JobRunShell - Job DEFAULT.readXmlProcess threw an unhandled Exception: 
+java.lang.NullPointerException: null
+	at com.read.app.model.LayoutLists.setLayout(LayoutLists.java:12) ~[app-2.2.1.0.jar:?]
+	at com.read.app.service.LayoutsService.start(LayoutsService.java:11) ~[app-2.2.1.0.jar:?]
+	at com.read.app.schedule.ReadLayoutSchedule.execute(ReadLayoutSchedule.java:42) ~[app-2.2.1.0.jar:?]
+	at org.quartz.core.JobRunShell.run(JobRunShell.java:202) [quartz-2.3.2.jar:?]
+	at org.quartz.simpl.SimpleThreadPool$WorkerThread.run(SimpleThreadPool.java:573) [quartz-2.3.2.jar:?]
+11:50:34.028 [DefaultQuartzScheduler_Worker-6] ERROR org.quartz.core.ErrorLogger - Job (DEFAULT.readXmlProcess threw an exception.
+org.quartz.SchedulerException: Job threw an unhandled exception.
+	at org.quartz.core.JobRunShell.run(JobRunShell.java:213) [quartz-2.3.2.jar:?]
+	at org.quartz.simpl.SimpleThreadPool$WorkerThread.run(SimpleThreadPool.java:573) [quartz-2.3.2.jar:?]
+Caused by: java.lang.NullPointerException
+	at com.read.app.model.LayoutLists.setLayout(LayoutLists.java:12) ~[app-2.2.1.0.jar:?]
+	at com.read.app.service.LayoutsService.start(LayoutsService.java:11) ~[app-2.2.1.0.jar:?]
+	at com.read.app.schedule.ReadLayoutSchedule.execute(ReadLayoutSchedule.java:42) ~[app-2.2.1.0.jar:?]
+	at org.quartz.core.JobRunShell.run(JobRunShell.java:202) ~[quartz-2.3.2.jar:?]
+	... 1 more
+11:51:34.004 [DefaultQuartzScheduler_Worker-7] ERROR org.quartz.core.JobRunShell - Job DEFAULT.readXmlProcess threw an unhandled Exception: 
+java.lang.NullPointerException: null
+	at com.read.app.model.LayoutLists.setLayout(LayoutLists.java:12) ~[app-2.2.1.0.jar:?]
+	at com.read.app.service.LayoutsService.start(LayoutsService.java:11) ~[app-2.2.1.0.jar:?]
+	at com.read.app.schedule.ReadLayoutSchedule.execute(ReadLayoutSchedule.java:42) ~[app-2.2.1.0.jar:?]
+	at org.quartz.core.JobRunShell.run(JobRunShell.java:202) [quartz-2.3.2.jar:?]
+	at org.quartz.simpl.SimpleThreadPool$WorkerThread.run(SimpleThreadPool.java:573) [quartz-2.3.2.jar:?]
+11:51:34.005 [DefaultQuartzScheduler_Worker-7] ERROR org.quartz.core.ErrorLogger - Job (DEFAULT.readXmlProcess threw an exception.
+org.quartz.SchedulerException: Job threw an unhandled exception.
+	at org.quartz.core.JobRunShell.run(JobRunShell.java:213) [quartz-2.3.2.jar:?]
+	at org.quartz.simpl.SimpleThreadPool$WorkerThread.run(SimpleThreadPool.java:573) [quartz-2.3.2.jar:?]
+Caused by: java.lang.NullPointerException
+	at com.read.app.model.LayoutLists.setLayout(LayoutLists.java:12) ~[app-2.2.1.0.jar:?]
+	at com.read.app.service.LayoutsService.start(LayoutsService.java:11) ~[app-2.2.1.0.jar:?]
+	at com.read.app.schedule.ReadLayoutSchedule.execute(ReadLayoutSchedule.java:42) ~[app-2.2.1.0.jar:?]
+	at org.quartz.core.JobRunShell.run(JobRunShell.java:202) ~[quartz-2.3.2.jar:?]
+	... 1 more
+11:52:34.006 [DefaultQuartzScheduler_Worker-8] ERROR org.quartz.core.JobRunShell - Job DEFAULT.readXmlProcess threw an unhandled Exception: 
+java.lang.NullPointerException: null
+	at com.read.app.model.LayoutLists.setLayout(LayoutLists.java:12) ~[app-2.2.1.0.jar:?]
+	at com.read.app.service.LayoutsService.start(LayoutsService.java:11) ~[app-2.2.1.0.jar:?]
+	at com.read.app.schedule.ReadLayoutSchedule.execute(ReadLayoutSchedule.java:42) ~[app-2.2.1.0.jar:?]
+	at org.quartz.core.JobRunShell.run(JobRunShell.java:202) [quartz-2.3.2.jar:?]
+	at org.quartz.simpl.SimpleThreadPool$WorkerThread.run(SimpleThreadPool.java:573) [quartz-2.3.2.jar:?]
+11:52:34.007 [DefaultQuartzScheduler_Worker-8] ERROR org.quartz.core.ErrorLogger - Job (DEFAULT.readXmlProcess threw an exception.
+org.quartz.SchedulerException: Job threw an unhandled exception.
+	at org.quartz.core.JobRunShell.run(JobRunShell.java:213) [quartz-2.3.2.jar:?]
+	at org.quartz.simpl.SimpleThreadPool$WorkerThread.run(SimpleThreadPool.java:573) [quartz-2.3.2.jar:?]
+Caused by: java.lang.NullPointerException
+	at com.read.app.model.LayoutLists.setLayout(LayoutLists.java:12) ~[app-2.2.1.0.jar:?]
+	at com.read.app.service.LayoutsService.start(LayoutsService.java:11) ~[app-2.2.1.0.jar:?]
+	at com.read.app.schedule.ReadLayoutSchedule.execute(ReadLayoutSchedule.java:42) ~[app-2.2.1.0.jar:?]
+	at org.quartz.core.JobRunShell.run(JobRunShell.java:202) ~[quartz-2.3.2.jar:?]
+	... 1 more
+11:53:34.055 [DefaultQuartzScheduler_Worker-9] ERROR org.quartz.core.JobRunShell - Job DEFAULT.readXmlProcess threw an unhandled Exception: 
+java.lang.NullPointerException: null
+	at com.read.app.model.LayoutLists.setLayout(LayoutLists.java:12) ~[app-2.2.1.0.jar:?]
+	at com.read.app.service.LayoutsService.start(LayoutsService.java:11) ~[app-2.2.1.0.jar:?]
+	at com.read.app.schedule.ReadLayoutSchedule.execute(ReadLayoutSchedule.java:42) ~[app-2.2.1.0.jar:?]
+	at org.quartz.core.JobRunShell.run(JobRunShell.java:202) [quartz-2.3.2.jar:?]
+	at org.quartz.simpl.SimpleThreadPool$WorkerThread.run(SimpleThreadPool.java:573) [quartz-2.3.2.jar:?]
+11:53:34.066 [DefaultQuartzScheduler_Worker-9] ERROR org.quartz.core.ErrorLogger - Job (DEFAULT.readXmlProcess threw an exception.
+org.quartz.SchedulerException: Job threw an unhandled exception.
+	at org.quartz.core.JobRunShell.run(JobRunShell.java:213) [quartz-2.3.2.jar:?]
+	at org.quartz.simpl.SimpleThreadPool$WorkerThread.run(SimpleThreadPool.java:573) [quartz-2.3.2.jar:?]
+Caused by: java.lang.NullPointerException
+	at com.read.app.model.LayoutLists.setLayout(LayoutLists.java:12) ~[app-2.2.1.0.jar:?]
+	at com.read.app.service.LayoutsService.start(LayoutsService.java:11) ~[app-2.2.1.0.jar:?]
+	at com.read.app.schedule.ReadLayoutSchedule.execute(ReadLayoutSchedule.java:42) ~[app-2.2.1.0.jar:?]
+	at org.quartz.core.JobRunShell.run(JobRunShell.java:202) ~[quartz-2.3.2.jar:?]
+	... 1 more
+11:54:34.012 [DefaultQuartzScheduler_Worker-10] ERROR org.quartz.core.JobRunShell - Job DEFAULT.readXmlProcess threw an unhandled Exception: 
+java.lang.NullPointerException: null
+	at com.read.app.model.LayoutLists.setLayout(LayoutLists.java:12) ~[app-2.2.1.0.jar:?]
+	at com.read.app.service.LayoutsService.start(LayoutsService.java:11) ~[app-2.2.1.0.jar:?]
+	at com.read.app.schedule.ReadLayoutSchedule.execute(ReadLayoutSchedule.java:42) ~[app-2.2.1.0.jar:?]
+	at org.quartz.core.JobRunShell.run(JobRunShell.java:202) [quartz-2.3.2.jar:?]
+	at org.quartz.simpl.SimpleThreadPool$WorkerThread.run(SimpleThreadPool.java:573) [quartz-2.3.2.jar:?]
+11:54:34.016 [DefaultQuartzScheduler_Worker-10] ERROR org.quartz.core.ErrorLogger - Job (DEFAULT.readXmlProcess threw an exception.
+org.quartz.SchedulerException: Job threw an unhandled exception.
+	at org.quartz.core.JobRunShell.run(JobRunShell.java:213) [quartz-2.3.2.jar:?]
+	at org.quartz.simpl.SimpleThreadPool$WorkerThread.run(SimpleThreadPool.java:573) [quartz-2.3.2.jar:?]
+Caused by: java.lang.NullPointerException
+	at com.read.app.model.LayoutLists.setLayout(LayoutLists.java:12) ~[app-2.2.1.0.jar:?]
+	at com.read.app.service.LayoutsService.start(LayoutsService.java:11) ~[app-2.2.1.0.jar:?]
+	at com.read.app.schedule.ReadLayoutSchedule.execute(ReadLayoutSchedule.java:42) ~[app-2.2.1.0.jar:?]
+	at org.quartz.core.JobRunShell.run(JobRunShell.java:202) ~[quartz-2.3.2.jar:?]
+	... 1 more
